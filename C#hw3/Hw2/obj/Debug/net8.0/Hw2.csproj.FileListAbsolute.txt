@@ -1,0 +1,14 @@
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/bin/Debug/net8.0/Hw2
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/bin/Debug/net8.0/Hw2.deps.json
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/bin/Debug/net8.0/Hw2.runtimeconfig.json
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/bin/Debug/net8.0/Hw2.dll
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/bin/Debug/net8.0/Hw2.pdb
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/obj/Debug/net8.0/Hw2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/obj/Debug/net8.0/Hw2.AssemblyInfoInputs.cache
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/obj/Debug/net8.0/Hw2.AssemblyInfo.cs
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/obj/Debug/net8.0/Hw2.csproj.CoreCompileInputs.cache
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/obj/Debug/net8.0/Hw2.dll
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/obj/Debug/net8.0/refint/Hw2.dll
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/obj/Debug/net8.0/Hw2.pdb
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/obj/Debug/net8.0/Hw2.genruntimeconfig.cache
+/Users/joeylin/RiderProjects/Antra_csharp_assignment/Hw2/obj/Debug/net8.0/ref/Hw2.dll
