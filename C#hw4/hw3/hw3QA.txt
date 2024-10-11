@@ -1,0 +1,29 @@
+Problem generics solve?
+Type safety and code reuse.
+
+Create a list of strings?
+List<string> stringList = new List<string>();
+
+How many type params in Dictionary?
+Two: TKey and TValue.
+
+True/False: Multiple type params must match?
+False.
+
+Method to add items to a List?
+Add().
+
+Two methods to remove items from a List?
+Remove() and RemoveAt().
+
+Indicate a class has a generic type?
+Use angle brackets: class MyClass<T>
+
+True/False: Generic classes can have only one type param?
+False.
+
+True/False: Constraints limit what can be used as the generic type?
+True.
+
+True/False: Constraints let you use methods of the constrained type?
+True.
