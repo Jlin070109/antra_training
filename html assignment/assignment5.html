@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antra Life Keyboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            width: 500px;
+        }
+        .container div {
+            background-color: #e0e0e0;
+            text-align: center;
+            padding: 20px;
+            border-radius: 5px;
+            font-size: 18px;
+            color: blue;
+            font-weight: bold;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+        .container div:nth-child(1) {
+            grid-column: span 4;
+            background-color: #d0d0d0;
+            font-size: 24px;
+        }
+        .container div:nth-child(2),
+        .container div:nth-child(3),
+        .container div:nth-child(4),
+        .container div:nth-child(5) {
+            grid-column: span 2;
+        }
+        .container div:nth-child(6),
+        .container div:nth-child(7),
+        .container div:nth-child(8),
+        .container div:nth-child(9) {
+            grid-column: span 1;
+        }
+        .container div:nth-child(10),
+        .container div:nth-child(11) {
+            grid-column: span 2;
+        }
+        .container div:nth-child(12),
+        .container div:nth-child(13),
+        .container div:nth-child(14) {
+            grid-column: span 1;
+        }
+        .container div a {
+            color: inherit;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div>Antra Life</div>
+        <div><a href="https://www.google.com" target="_blank">GOOGLE</a></div>
+        <div><a href="https://github.com" target="_blank">GitHub</a></div>
+        <div><a href="https://www.facebook.com" target="_blank">Facebook</a></div>
+        <div><a href="https://mail.google.com" target="_blank">GMail</a></div>
+        <div><a href="https://www.youtube.com" target="_blank">YouTube</a></div>
+        <div><a href="https://play2048.co/" target="_blank">2048</a></div>
+        <div><a href="#" target="_blank">Food</a></div>
+        <div><a href="#" target="_blank">Game</a></div>
+        <div><a href="#" target="_blank">Social life</a></div>
+        <div><a href="#" target="_blank">Sleep</a></div>
+        <div><a href="#" target="_blank">Beer&gt;&gt;&gt;</a></div>
+        <div><a href="#" target="_blank">WC</a></div>
+    </div>
+</body>
+</html>
