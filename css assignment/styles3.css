@@ -1,0 +1,34 @@
+/* News Section Styles */
+.news-section {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.news-item {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.pagination ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.pagination li {
+    margin: 5px;
+}
+
+.pagination a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px 10px;
+    border: 1px solid #333;
+}

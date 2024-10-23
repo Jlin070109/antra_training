@@ -1,0 +1,54 @@
+/* Header Styles */
+header {
+    background-color: #2f3a5f;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.logo img {
+    height: 50px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    position: relative;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li .dropdown {
+    display: none;
+    position: absolute;
+    background-color: #2f3a5f;
+    top: 100%;
+    left: 0;
+    list-style: none;
+    padding: 10px 0;
+}
+
+nav ul li:hover .dropdown {
+    display: block;
+}
+
+.user-search {
+    display: flex;
+    align-items: center;
+}
+
+.user-search input {
+    margin-left: 10px;
+    padding: 5px;
+}
