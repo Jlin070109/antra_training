@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieShop.MVC", "MovieShop.MVC\MovieShop.MVC.csproj", "{C486E2E6-E3C8-43FA-B0D8-14FE3F36EB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationCore", "ApplicationCore\ApplicationCore.csproj", "{344F77F1-BDEC-45B8-9DB5-B40DF5D96229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure \Infrastructure.csproj", "{0F7D5472-E32D-4E38-B34E-F212C70D2331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C486E2E6-E3C8-43FA-B0D8-14FE3F36EB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C486E2E6-E3C8-43FA-B0D8-14FE3F36EB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C486E2E6-E3C8-43FA-B0D8-14FE3F36EB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C486E2E6-E3C8-43FA-B0D8-14FE3F36EB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{344F77F1-BDEC-45B8-9DB5-B40DF5D96229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344F77F1-BDEC-45B8-9DB5-B40DF5D96229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344F77F1-BDEC-45B8-9DB5-B40DF5D96229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344F77F1-BDEC-45B8-9DB5-B40DF5D96229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7D5472-E32D-4E38-B34E-F212C70D2331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7D5472-E32D-4E38-B34E-F212C70D2331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7D5472-E32D-4E38-B34E-F212C70D2331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7D5472-E32D-4E38-B34E-F212C70D2331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
