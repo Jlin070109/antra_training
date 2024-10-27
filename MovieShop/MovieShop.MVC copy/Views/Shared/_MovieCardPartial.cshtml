@@ -1,0 +1,23 @@
+@model TModel
+
+@model MovieShop.Models.MovieCardModel
+
+<div class="col-md-3">
+    <div class="card">
+        <img src="@Model.PosterUrl" class="card-img-top" alt="@Model.Title">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Title</h5>
+            <a href="@Url.Action("Details", "Movies", new { id = @Model.Id })" class="btn btn-primary">Details</a>
+        </div>
+    </div>
+</div>
+@model ApplicationCore.Entities.MovieCardModel
+
+<div class="card">
+    <img class="card-img-top" src="@Model.PosterUrl" alt="@Model.Title">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        <p class="card-text">@Model.Overview</p>
+        <a href="@Url.Action("Details", "Movies", new { id = @Model.Id })" class="btn btn-primary">Details</a>
+    </div>
+</div>
